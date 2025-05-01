@@ -86,7 +86,7 @@ body {
             font-style: italic;
             color: var(--Light-Red);
         }
-        .input-email {
+        .input-email.error {
             border: 1px solid var(--Light-Red);
         }
         .error-message.active {
